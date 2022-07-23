@@ -1,8 +1,8 @@
 # MsfMania
 MsfMania is a command line tool developed in Python that is designed to bypass antivirus software on Windows and Linux/Mac in the future.
-![alt text](https://github.com/G1ft3dC0d3/MsfMania/blob/master/VirusTotal.png)
+![alt text](https://github.com/trhacknon/MsfMania/blob/master/VirusTotal.png)
 
-![alt text](https://github.com/G1ft3dC0d3/MsfMania/blob/master/MsfMania.png)
+![alt text](https://github.com/trhacknon/MsfMania/blob/master/MsfMania.png)
 
 ## Summary
 * [PRO version](#PRO-version)
@@ -24,7 +24,7 @@ You can also join the Telegram group https://t.me/msfmaniapros
 - Python3
 
 ## Installation
-- Git clone this repository: ```git clone https://github.com/G1ft3dC0d3/MsfMania.git```
+- Git clone this repository: ```git clone https://github.com/trhacknon/MsfMania.git```
 - cd into the MsfMania folder: ```cd MsfMania```
 - Good pentest
 
